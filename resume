@@ -1,0 +1,13 @@
+This resume builder project allows users to enter their personal information, work experience, and education details. The program stores the resume data in a Resume structure and provides functions to create and display the resume.
+
+To use the resume builder, the program prompts the user to enter their personal information, work experience (multiple entries can be added), and education details (multiple entries can be added). The resume is then displayed with all the entered information.
+
+You can further enhance this project by adding features like formatting options, saving the resume to a file, or additional sections such as skills, projects, and certifications.
+
+Remember to customize the project to fit your needs and preferences and to showcase your programming skills effectively on your resume.
+
+
+
+
+
+Regenerate response
